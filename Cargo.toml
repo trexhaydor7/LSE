@@ -3,6 +3,7 @@ name = "lse"
 version = "0.1.0"
 edition = "2024"
 
+authors = ["Hayden Neiberline"]
+description = "Linux scoring engine for scoring images on cybersecurity vulnerabilites."
+
 [dependencies]
-os = "0.1.0"
-users = "0.11.0"
